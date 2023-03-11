@@ -1,0 +1,10 @@
+$firstColor: #222831;
+$secondColor: #393E46;
+$thirdColor: #00ADB5;
+$whiteColor: #EEEEEE;
+
+@mixin flexCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
